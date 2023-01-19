@@ -13,6 +13,7 @@ In this project the most common location for each of the top 20 ticket infractio
 
 
 Data Source:
+
 [1. Parking Tickets (2016-2020)](https://open.toronto.ca/dataset/parking-tickets/)
 
 [2. Green P Parking](https://open.toronto.ca/dataset/green-p-parking/)
